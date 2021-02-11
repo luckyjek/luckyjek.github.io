@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>&lt;기록Blog&gt;</description>
+    <link>
+    https://luckyjek.github.io</link>
+    
+      
+      <item>
+        <title>SpringFramework_첨부파일다운로드기능</title>
+        
+          <description>&lt;p&gt;&amp;lt;span class=”table-of-contents-list”&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;SpringFramework 강좌는 여러 절로 구성되어 있습니다.&amp;lt;/span&lt;/p&gt;
+
+&lt;/blockquote&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+  &lt;li&gt;
+    &lt;a href=&quot;./SpringFramewokr-basic&quot;&gt;SpringFramework_xml설정&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href=&quot;/SpringFramewokr-uploadController&quot;&gt;SpringFramework_파일첨부기능&lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Wed, 10 Feb 2021 19:50:00 +0900</pubDate>
+        <link>
+        https://luckyjek.github.io/SpringFramewokr-uploadController</link>
+        <guid isPermaLink="true">https://luckyjek.github.io/SpringFramewokr-uploadController</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>SpringFramework_xml설정</title>
+        
+          <description>&lt;p&gt;&amp;lt;span class=”table-of-contents-list”&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;SpringFramework 강좌는 여러 절로 구성되어 있습니다.&amp;lt;/span&lt;/p&gt;
+
+&lt;/blockquote&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+  &lt;li&gt;
+    &lt;a href=&quot;./SpringFramewokr-basic&quot;&gt;SpringFramework_xml설정&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href=&quot;/SpringFramewokr-uploadController&quot;&gt;SpringFramework_파일첨부기능&lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Tue, 09 Feb 2021 19:50:00 +0900</pubDate>
+        <link>
+        https://luckyjek.github.io/SpringFramewokr-basic</link>
+        <guid isPermaLink="true">https://luckyjek.github.io/SpringFramewokr-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Java_제네릭</title>
+        
+          <description>&lt;p&gt;이 글은 Java basic입니다.&lt;/p&gt;
+</description>
+        
+        <pubDate>Tue, 09 Feb 2021 19:50:00 +0900</pubDate>
+        <link>
+        https://luckyjek.github.io/Java-basic</link>
+        <guid isPermaLink="true">https://luckyjek.github.io/Java-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Gettysburg Address</title>
+        
+          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
+        <link>
+        https://luckyjek.github.io/gettysburg-address</link>
+        <guid isPermaLink="true">https://luckyjek.github.io/gettysburg-address</guid>
+      </item>
+      
+    
+  </channel>
+</rss>

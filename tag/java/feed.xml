@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="https://luckyjek.github.io/tag/java/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://luckyjek.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-02-11T21:47:22+09:00</updated>
+  <id>https://luckyjek.github.io/tag/java/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">느리지만 꾸준하게 성장하는 ‘MI개발꽃’ | </title>
+  
+
+  
+    <subtitle>&lt;기록Blog&gt;</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Java_제네릭</title>
+      <link href="https://luckyjek.github.io/Java-basic" rel="alternate" type="text/html" title="Java_제네릭" />
+      <published>2021-02-09T19:50:00+09:00</published>
+      <updated>2021-02-09T19:50:00+09:00</updated>
+      <id>https://luckyjek.github.io/Java-basic</id>
+      <content type="html" xml:base="https://luckyjek.github.io/Java-basic">&lt;p&gt;이 글은 Java basic입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>luckyjek</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Java" />
+      
+
+      
+        <summary type="html">이 글은 Java basic입니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
