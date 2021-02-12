@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="https://luckyjek.github.io/tag/project/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://luckyjek.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-02-12T22:18:37+09:00</updated>
+  <id>https://luckyjek.github.io/tag/project/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">느리지만 꾸준하게 성장하는 ‘MI개발꽃’ | </title>
+  
+
+  
+    <subtitle>&lt;기록Blog&gt;</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">(개인)토이프로젝트</title>
+      <link href="https://luckyjek.github.io/Project-uploadController" rel="alternate" type="text/html" title="(개인)토이프로젝트" />
+      <published>2021-02-10T19:50:00+09:00</published>
+      <updated>2021-02-10T19:50:00+09:00</updated>
+      <id>https://luckyjek.github.io/Project-uploadController</id>
+      <content type="html" xml:base="https://luckyjek.github.io/Project-uploadController">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;개인 or 팀 Project&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+  &lt;li&gt;
+    &lt;a href=&quot;./Project-basic&quot;&gt;SpringFramework_xml설정&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href=&quot;/Project-uploadController&quot;&gt;SpringFramework_파일첨부기능&lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;이 글은 (개인)미니프로젝트입니다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>luckyjek</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Project" />
+      
+
+      
+        <summary type="html">개인 or 팀 Project SpringFramework_xml설정 SpringFramework_파일첨부기능</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">(개인)게시판_프로젝트</title>
+      <link href="https://luckyjek.github.io/Project-basic" rel="alternate" type="text/html" title="(개인)게시판_프로젝트" />
+      <published>2021-02-09T19:50:00+09:00</published>
+      <updated>2021-02-09T19:50:00+09:00</updated>
+      <id>https://luckyjek.github.io/Project-basic</id>
+      <content type="html" xml:base="https://luckyjek.github.io/Project-basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;개인 or 팀 Project&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+  &lt;li&gt;
+    &lt;a href=&quot;./Project-basic&quot;&gt;SpringFramework_xml설정&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href=&quot;/Project-uploadController&quot;&gt;SpringFramework_파일첨부기능&lt;/a&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;게시판_프로젝트입니다.&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;syntaxHighlight&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;foo&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'Hello World'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;bar&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>luckyjek</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="Project" />
+      
+
+      
+        <summary type="html">개인 or 팀 Project SpringFramework_xml설정 SpringFramework_파일첨부기능</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
