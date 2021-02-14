@@ -8,24 +8,23 @@
     
       
       <item>
-        <title>(개인)토이프로젝트</title>
+        <title>Book_누워서읽는알고리즘</title>
         
-          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;개인 or 팀 Project&lt;/span&gt;&lt;/p&gt;
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;시간을 담는 공간&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
   &lt;li&gt;
-    &lt;a href=&quot;./Project-basic&quot;&gt;SpringFramework_xml설정&lt;/a&gt;
+    &lt;a href=&quot;./Book&quot;&gt;
+      (알고리즘)누워서 읽는 알고리즘&lt;/a&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;a href=&quot;./Project-uploadController&quot;&gt;SpringFramework_파일첨부기능&lt;/a&gt;
-  &lt;/li&gt;
+
 &lt;/ul&gt;
 
 </description>
         
-        <pubDate>Wed, 10 Feb 2021 19:50:00 +0900</pubDate>
+        <pubDate>Sun, 14 Feb 2021 01:00:00 +0900</pubDate>
         <link>
-        https://luckyjek.github.io/Project-Test</link>
-        <guid isPermaLink="true">https://luckyjek.github.io/Project-Test</guid>
+        https://luckyjek.github.io/Book</link>
+        <guid isPermaLink="true">https://luckyjek.github.io/Book</guid>
       </item>
       
     
@@ -58,10 +57,6 @@
         
           <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;시간을 담는 공간&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;
-    &lt;a href=&quot;./RetrospectiveSeconde&quot;&gt;
-      (2)회고_(2021년.00.00)&lt;/a&gt;
-  &lt;/li&gt;
   &lt;li&gt;
     &lt;a href=&quot;./Retrospective&quot;&gt;
       (1)회고_(2020년.12.31)&lt;/a&gt;

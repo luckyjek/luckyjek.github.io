@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://luckyjek.github.io/tag/project/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://luckyjek.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-02-14T14:28:29+09:00</updated>
+  <updated>2021-02-14T16:13:48+09:00</updated>
   <id>https://luckyjek.github.io/tag/project/feed.xml</id>
 
   
@@ -48,50 +48,6 @@
 &lt;/ul&gt;
 
 &lt;p&gt;이 글은 (개인)미니프로젝트입니다.&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>luckyjek</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="Project" />
-      
-
-      
-        <summary type="html">개인 or 팀 Project SpringFramework_xml설정 SpringFramework_파일첨부기능</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">(개인)토이프로젝트</title>
-      <link href="https://luckyjek.github.io/Project-Test" rel="alternate" type="text/html" title="(개인)토이프로젝트" />
-      <published>2021-02-10T19:50:00+09:00</published>
-      <updated>2021-02-10T19:50:00+09:00</updated>
-      <id>https://luckyjek.github.io/Project-Test</id>
-      <content type="html" xml:base="https://luckyjek.github.io/Project-Test">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;개인 or 팀 Project&lt;/span&gt;&lt;/p&gt;
-&lt;ul class=&quot;table-of-contents-list&quot;&gt;
-  &lt;li&gt;
-    &lt;a href=&quot;./Project-basic&quot;&gt;SpringFramework_xml설정&lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;a href=&quot;./Project-uploadController&quot;&gt;SpringFramework_파일첨부기능&lt;/a&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;14day  Test 이 글은 (개인)미니프로젝트입니다.&lt;/p&gt;</content>
 
       
       
